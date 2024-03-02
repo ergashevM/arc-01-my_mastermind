@@ -1,20 +1,5 @@
-# Welcome to My Mastermind
- Welcome to projwct my mastermind im 
- Ergashev muhammad Yusuf 
- the Astrum student 
+first:file is compiled by make file.
+the second:file is run by make run or ./my_mastermind command.
 
-## Task
-The challenge is to create right verification input logic.
-
-## Description
-To solve the challenge you need to learn how read() fucntion works.
-
-## Installation
-make
-
-## Usage
-```
-./my_mastermind -c "1234" -t 5
-```
-
-
+"-c" gives the secret code as "-c 4321" and "-t"
+ the number of rounds is entered in the form "-t 12".
